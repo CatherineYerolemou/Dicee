@@ -1,7 +1,7 @@
-#Dicee
+# Dicee
 
-Created by Catherine Yerolemou on 25/10/2023
-Updated on 09/01/2024
+Created by Catherine Yerolemou on 25/10/2023.
+Updated on 09/01/2024.
 
 Note: 
     This is a companion project to The Complete iOS App Development Bootcamp by Dr Angela Yu, check out the full course at https://www.udemy.com/course/ios-13-app-development-bootcamp/
@@ -13,15 +13,15 @@ Welcome to Dicee, your go-to app for all your dice rolling needs! Whether you're
 
 
 
-# Features
+## Features
 
-Roll Up to 5 Dice: 
+###Roll Up to 5 Dice: 
     Roll up to 5 six-sided dice in a single roll.
 
-Individual or Simultaneous Rolls: 
+###Individual or Simultaneous Rolls: 
     Choose to roll each die individually or roll them all at once.
 
-Add or Remove Dice: 
+###Add or Remove Dice: 
     Customize your roll by easily adding or removing dice as needed.
 
 User-Friendly Interface: 
@@ -29,40 +29,39 @@ User-Friendly Interface:
     
     
     
-# Getting Started
+## Getting Started
 
-Launching the App:
+###Launching the App:
     Tap on the Dicee icon to open the app.
     
-Dice Selection:
+###Dice Selection:
+
     Choose the number of dice you want to roll by using the intuitive controls.
-    
-    Adding dice:
+    ***Adding dice:***
         Tap on the plus button to add a die. Can add up to five.
-    Removing dice:
+    ***Removing dice:***
         Tap on the subtract button to remove a die. Can remove all but one.
     
-Rolling Options:
+###Rolling Options:
     Decide whether you want to roll the dice individually or all at once.
-    
-    Induvidually:
+    ***Induvidually:***
         Tap on induvidual die to roll it alone.
-    Simultaneously:
+    ***Simultaneously:***
         Tap on the "ROLL ALL" button to roll them all at once.
         
-Results:
+###Results:
     View the results on the screen, with individual dice values.
     
-Enjoy Your Game:
+###Enjoy Your Game:
     Use the generated results for your tabletop games, RPGs, or any scenario that requires random number generation.
     
 
 
-# Support and Feedback
+## Support and Feedback
 
 If you encounter any issues, have suggestions for improvements, or just want to share your thoughts, feel free to reach out to me on catherineyerolemou@gmail.com.
 
 
-Happy rolling! 🎲
+###Happy rolling! 🎲
 
 
